@@ -1,0 +1,15 @@
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/bin/Debug/net7.0/ticTacToeMac
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/bin/Debug/net7.0/ticTacToeMac.deps.json
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/bin/Debug/net7.0/ticTacToeMac.runtimeconfig.json
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/bin/Debug/net7.0/ticTacToeMac.dll
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/bin/Debug/net7.0/ticTacToeMac.pdb
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.csproj.AssemblyReference.cache
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.AssemblyInfoInputs.cache
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.AssemblyInfo.cs
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.csproj.CoreCompileInputs.cache
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.dll
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/refint/ticTacToeMac.dll
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.pdb
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ticTacToeMac.genruntimeconfig.cache
+/Users/alex/src/dotNet/ticTacToeMac/ticTacToeMac/obj/Debug/net7.0/ref/ticTacToeMac.dll
